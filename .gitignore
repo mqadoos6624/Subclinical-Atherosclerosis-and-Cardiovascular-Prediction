@@ -1,0 +1,6 @@
+*.zip
+.DS_Store
+results/
+model_comparison.csv
+paper.js
+
